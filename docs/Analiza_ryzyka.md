@@ -4,8 +4,6 @@
 
 ### Autor: Jędrzej Nowak
 
-### Korekta:
-
 ### Wersja: 001
 
 ### Data: 12.12.2018
@@ -23,7 +21,7 @@
 
 ## Przedmiot dokumentu
 
-W niniejszym p omówienie możliwych zagrożeń systemu, analiza ryzyka oraz pokazanie ich konsekwencji.
+Niniejszy dokument zawiera omówienie możliwych zagrożeń systemu, analizę ryzyka oraz pokazanie ich konsekwencji.
 
 ## Przypadek nieoddania projektu
 
